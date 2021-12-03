@@ -1,3 +1,10 @@
 # My Portfolio
 
-Hey! Welcome to my portfolio. My name is Parul Gupta and I am from Jaipur. I love travelling and to explore new places. My dream place is Switzerland.
+Hey! Welcome to my portfolio. 
+
+It's coming up tomorrow when I learn HTML and CSS with Tanay Pratap on Youtube.
+
+For now I know:
+Javascript
+Nodejs
+Repl.it
